@@ -112,12 +112,12 @@
   </parameters>
   <node componentName="tFileCopy" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="160" posY="128">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFileCopy_1"/>
-    <elementParameter field="FILE" name="FILENAME" value="&quot;C:/Talend/7.2.1/cmdline/studio/commandline-workspace/BB_MIGRATION/process/J_J/CICDTestJob_0.3 - Copy.item&quot;"/>
+    <elementParameter field="FILE" name="FILENAME" value="&quot;C:/Talend/7.2.1/cmdline/studio/commandline-workspace/J_J/process/testJob1_0.1.item&quot;"/>
     <elementParameter field="CHECK" name="ENABLE_COPY_DIRECTORY" value="false"/>
     <elementParameter field="DIRECTORY" name="SOURCE_DERECTORY" show="false" value="&quot;C:/Talend/7.2.1/studio/workspace&quot;"/>
-    <elementParameter field="DIRECTORY" name="DESTINATION" value="&quot;C:/Talend/7.2.1/cmdline/studio/commandline-workspace/BB_MIGRATION/process/J_J&quot;"/>
+    <elementParameter field="DIRECTORY" name="DESTINATION" value="&quot;C:/Talend/7.2.1/cmdline/studio/commandline-workspace/J_J/process&quot;"/>
     <elementParameter field="CHECK" name="RENAME" value="true"/>
-    <elementParameter field="TEXT" name="DESTINATION_RENAME" value="&quot;CICDTestJob_0.3.item&quot;"/>
+    <elementParameter field="TEXT" name="DESTINATION_RENAME" value="&quot;testJob1_0.2.item&quot;"/>
     <elementParameter field="CHECK" name="REMOVE_FILE" value="false"/>
     <elementParameter field="CHECK" name="REPLACE_FILE" value="true"/>
     <elementParameter field="CHECK" name="CREATE_DIRECTORY" value="true"/>
@@ -127,12 +127,12 @@
   </node>
   <node componentName="tFileCopy" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="320" posY="128">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFileCopy_2"/>
-    <elementParameter field="FILE" name="FILENAME" value="&quot;C:/Talend/7.2.1/cmdline/studio/commandline-workspace/BB_MIGRATION/process/J_J/CICDTestJob_0.1 - Copy.properties&quot;"/>
+    <elementParameter field="FILE" name="FILENAME" value="&quot;C:/Talend/7.2.1/cmdline/studio/commandline-workspace/J_J/process/testJob1_0.1 - Copy.properties&quot;"/>
     <elementParameter field="CHECK" name="ENABLE_COPY_DIRECTORY" value="false"/>
     <elementParameter field="DIRECTORY" name="SOURCE_DERECTORY" show="false" value="&quot;C:/Talend/7.2.1/studio/workspace&quot;"/>
-    <elementParameter field="DIRECTORY" name="DESTINATION" value="&quot;C:/Talend/7.2.1/cmdline/studio/commandline-workspace/BB_MIGRATION/process/J_J&quot;"/>
+    <elementParameter field="DIRECTORY" name="DESTINATION" value="&quot;C:/Talend/7.2.1/cmdline/studio/commandline-workspace/J_J/process&quot;"/>
     <elementParameter field="CHECK" name="RENAME" value="true"/>
-    <elementParameter field="TEXT" name="DESTINATION_RENAME" value="&quot;CICDTestJob_0.3.properties&quot;"/>
+    <elementParameter field="TEXT" name="DESTINATION_RENAME" value="&quot;testJob1_0.2.properties&quot;"/>
     <elementParameter field="CHECK" name="REMOVE_FILE" value="false"/>
     <elementParameter field="CHECK" name="REPLACE_FILE" value="true"/>
     <elementParameter field="CHECK" name="CREATE_DIRECTORY" value="true"/>
@@ -142,12 +142,12 @@
   </node>
   <node componentName="tFileCopy" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="448" posY="128">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFileCopy_3"/>
-    <elementParameter field="FILE" name="FILENAME" value="&quot;C:/Talend/7.2.1/cmdline/studio/commandline-workspace/BB_MIGRATION/process/J_J/CICDTestJob_0.1.screenshot&quot;"/>
+    <elementParameter field="FILE" name="FILENAME" value="&quot;C:/Talend/7.2.1/cmdline/studio/commandline-workspace/J_J/process/testJob1_0.1.screenshot&quot;"/>
     <elementParameter field="CHECK" name="ENABLE_COPY_DIRECTORY" value="false"/>
     <elementParameter field="DIRECTORY" name="SOURCE_DERECTORY" show="false" value="&quot;C:/Talend/7.2.1/studio/workspace&quot;"/>
-    <elementParameter field="DIRECTORY" name="DESTINATION" value="&quot;C:/Talend/7.2.1/cmdline/studio/commandline-workspace/BB_MIGRATION/process/J_J&quot;"/>
+    <elementParameter field="DIRECTORY" name="DESTINATION" value="&quot;C:/Talend/7.2.1/cmdline/studio/commandline-workspace/J_J/process&quot;"/>
     <elementParameter field="CHECK" name="RENAME" value="true"/>
-    <elementParameter field="TEXT" name="DESTINATION_RENAME" value="&quot;CICDTestJob_0.3.screenshot&quot;"/>
+    <elementParameter field="TEXT" name="DESTINATION_RENAME" value="&quot;testJob1_0.2.screenshot&quot;"/>
     <elementParameter field="CHECK" name="REMOVE_FILE" value="false"/>
     <elementParameter field="CHECK" name="REPLACE_FILE" value="true"/>
     <elementParameter field="CHECK" name="CREATE_DIRECTORY" value="true"/>
@@ -157,10 +157,10 @@
   </node>
   <node componentName="tFileCopy" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="608" posY="128">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFileCopy_5"/>
-    <elementParameter field="FILE" name="FILENAME" value="&quot;C:/Talend/7.2.1/cmdline/studio/commandline-workspace/BB_MIGRATION/poms/pom - Copy.xml&quot;"/>
+    <elementParameter field="FILE" name="FILENAME" value="&quot;C:/Talend/7.2.1/cmdline/studio/commandline-workspace/J_J/poms/pom - Copy.xml&quot;"/>
     <elementParameter field="CHECK" name="ENABLE_COPY_DIRECTORY" value="false"/>
     <elementParameter field="DIRECTORY" name="SOURCE_DERECTORY" show="false" value="&quot;C:/Talend/7.2.1/studio/workspace&quot;"/>
-    <elementParameter field="DIRECTORY" name="DESTINATION" value="&quot;C:/Talend/7.2.1/cmdline/studio/commandline-workspace/BB_MIGRATION/poms&quot;"/>
+    <elementParameter field="DIRECTORY" name="DESTINATION" value="&quot;C:/Talend/7.2.1/cmdline/studio/commandline-workspace/J_J/poms&quot;"/>
     <elementParameter field="CHECK" name="RENAME" value="true"/>
     <elementParameter field="TEXT" name="DESTINATION_RENAME" value="&quot;pom.xml&quot;"/>
     <elementParameter field="CHECK" name="REMOVE_FILE" value="false"/>
@@ -199,13 +199,13 @@
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" show="false" value="92;131;150"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
   </subjob>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_371655e6-20fa-49a6-86ca-e42a4d1a07a2"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>vThVm5J6OhhwOknnr1f0FJt7BoiEB2li+I+ynyd1Ir2ZPqXdZAd0bWoyJzW4Gsz/FkYta3f4toG5
-HmkgKYLLvA==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_690feabb-810b-4211-9047-3741293bbec6"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>5mLIWdoMz+0egn7QEluxyLkL/ny3jfZkVTefcbcClawVJWJHsHcpLk5SAebX4wzMGZLN6tlux4b/
-QWIW8hhPXw==</DigestValue></Reference></SignedInfo><SignatureValue>KHnn+34UPxTgxzhLulNTPYIU14YKhTdLVPFGl7kfqgyZFvlLl5os5JUiusLMFGUbkUkRNvu+J7Pw
-caJV8M1iDFoCB+xNSzPp1dZoo+lRhPGVrVmNJO3AcqE/GnIsz9t5Ov53LtUtfBYoXz2gs1nLRGJn
-zdqCQ1Na+nFDiqN5Z0A0Xv9U7pL2qOvkMpNCo1oS5hibNhs5YR8hE6nl5ZU2TAJpOqMBVf8RMPnw
-VFDWlirrGSdy1sqGeBu+tGExQAb0lmz2kPAWRKG3c6/HHKGgobaSydz/MAuqSRXdD96aXiySLwgc
-f7zjiXJvgZTWzgkCzDTjwW498wmc0CJ2t8yIdw==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_36113735-427d-4465-b7ab-21ff8a39e2f1"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>9czQonW6IDBqdKCdVCF14esKewVaB+ReX8h8jJ1dREvirRq06SjAEqLRWbEtCJPtvsZxHGSv5WqA
+a9OPArkfPg==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_4c32e971-557b-4926-a013-a0dfaafb7276"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>ct/fZmWxRYrcDg6uDZIL73w8mvdMcogzxpynSkbOO8w3lThHID5w+FYfp05o7N3vXipPBcjwbtOI
+Uf4vFV9+RA==</DigestValue></Reference></SignedInfo><SignatureValue>X+wd04bbbxDoJDkL/FxPUCEFSX2SIQfXywmDiuv7M6uYgC3kQgwub+Rh6ApgpE2KbW3Mmm3TbEs6
+OrtCmgdUZ160N3g+Huw25q8VZgHWR4b430+cloCRoxji/TQZt8ZXu1rf5sfoG+hD40wBjIhhf5oL
+KRifHrNzrmpLMGi0RqTZ0JC16e4MUc4EKP7uTVZcWrbOfJedmilwTuj5j2OTx49aCMLTELtSdL6J
+xpyCGaZw7+NQTdhE+ctbIVzlgPJbVfbNg8ekd159sPAJS5p6+KINQM+xIwzDSUZKA4hboSkHOS5S
+dkrR3FVVPQkOwXPu5f9MgYaDUCmpL9FXPhBe7g==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
 DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
 VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
 QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
@@ -227,4 +227,4 @@ hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
 WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
 gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
 qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
-qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_690feabb-810b-4211-9047-3741293bbec6" Target="#_371655e6-20fa-49a6-86ca-e42a4d1a07a2"><Timestamp>2020-01-15 17:58:10</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_4c32e971-557b-4926-a013-a0dfaafb7276" Target="#_36113735-427d-4465-b7ab-21ff8a39e2f1"><Timestamp>2020-01-15 18:31:00</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
