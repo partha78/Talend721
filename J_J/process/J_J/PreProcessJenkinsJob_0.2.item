@@ -110,7 +110,7 @@
     <routinesParameter id="_lt6twCFpEeqStPDeu9sHTA" name="TalendStringUtil"/>
     <routinesParameter id="_ltpoACFpEeqStPDeu9sHTA" name="TalendString"/>
   </parameters>
-  <node componentName="tFileCopy" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="160" posY="128">
+  <node componentName="tFileCopy" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="192" posY="64">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFileCopy_1"/>
     <elementParameter field="FILE" name="FILENAME" value="&quot;C:/Talend/7.2.1/cmdline/studio/commandline-workspace/J_J/process/testJob1_0.1.item&quot;"/>
     <elementParameter field="CHECK" name="ENABLE_COPY_DIRECTORY" value="false"/>
@@ -125,7 +125,7 @@
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tFileCopy_1"/>
   </node>
-  <node componentName="tFileCopy" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="320" posY="128">
+  <node componentName="tFileCopy" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="352" posY="64">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFileCopy_2"/>
     <elementParameter field="FILE" name="FILENAME" value="&quot;C:/Talend/7.2.1/cmdline/studio/commandline-workspace/J_J/process/testJob1_0.1 - Copy.properties&quot;"/>
     <elementParameter field="CHECK" name="ENABLE_COPY_DIRECTORY" value="false"/>
@@ -140,7 +140,7 @@
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tFileCopy_2"/>
   </node>
-  <node componentName="tFileCopy" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="448" posY="128">
+  <node componentName="tFileCopy" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="480" posY="64">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFileCopy_3"/>
     <elementParameter field="FILE" name="FILENAME" value="&quot;C:/Talend/7.2.1/cmdline/studio/commandline-workspace/J_J/process/testJob1_0.1.screenshot&quot;"/>
     <elementParameter field="CHECK" name="ENABLE_COPY_DIRECTORY" value="false"/>
@@ -155,7 +155,7 @@
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tFileCopy_3"/>
   </node>
-  <node componentName="tFileCopy" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="608" posY="128">
+  <node componentName="tFileCopy" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="640" posY="64">
     <elementParameter field="TEXT" name="UNIQUE_NAME" show="false" value="tFileCopy_5"/>
     <elementParameter field="FILE" name="FILENAME" value="&quot;C:/Talend/7.2.1/cmdline/studio/commandline-workspace/J_J/poms/pom - Copy.xml&quot;"/>
     <elementParameter field="CHECK" name="ENABLE_COPY_DIRECTORY" value="false"/>
@@ -199,13 +199,13 @@
     <elementParameter field="COLOR" name="SUBJOB_TITLE_COLOR" show="false" value="92;131;150"/>
     <elementParameter field="COLOR" name="SUBJOB_COLOR" value="207;226;236"/>
   </subjob>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_e35a962f-ffe9-4120-b7e1-6de9ed5d47dc"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>9czQonW6IDBqdKCdVCF14esKewVaB+ReX8h8jJ1dREvirRq06SjAEqLRWbEtCJPtvsZxHGSv5WqA
-a9OPArkfPg==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_8dd674b6-54c3-4252-aaeb-b61357bedcee"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>qKsFdKwAKP36ZcGSLEcQm0mtC67zYZTo0KMSmPhicVuAjhaM7xuq3o6jBJAwTkXHnhA3j02OujcL
-HeYAIiuC7A==</DigestValue></Reference></SignedInfo><SignatureValue>nHra5klSjeThmgUP1ZJNj8PBSu20Jt0CwH/aXyPwwL5GdCEH1arrqGAd00eJTUViI2WsRRUntztf
-dfbzN/wPuP9poRJXd4/BIDT8GlivlfYap8ZC6Ok//zwXzTbOJqcNgHd+Le1tG+9B2vTcYSfjJISt
-lWVHFxBH5O8y4hJ+DlBzLiEsQNiZY6rbzl82+RRp7Ju79x5luK3CzdYeyzGEsaBzDdPZUNld7HY+
-0yJA+owNfTSsrDU0FNyGU0JcXvl0rU2pOVuofR49YesDfg+/Cxtq8IlDPqcS2ECz6mE4LbPrqIxd
-x7+lb/S1SP0pYiDoQvqBf8dkOhvUXEN8lZVIBQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_a6d8ca84-fa2b-49d9-bfdd-c0b2663698da"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>tRUDCYa8o3rNMVOsZbIwDCpClwCxn7MVGBFjdgOxYXpXAmbQpa0AoGTlW8CgDKkyQGnbbAD4NUFx
+U1OYPLydvw==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_f3f564b0-a6b1-479b-a80a-087381653e32"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>060drek2Md8rd32o4rDNJL1y2cn/VBNY7s1XzkXHRWTrY9LCcNYfgmFQwmCxrtQbJra/MWIQpg03
+lNqEImrADg==</DigestValue></Reference></SignedInfo><SignatureValue>K9wkw4MLGuW3H1CMkKdVG+ySOZUTXtR5xyiCLyVsXBL7S86njsZ2yNDtT3Wl0ibxakSM7K55fJHK
+bHifBEaJiF207af3SP+vLs42gLFMugPMT/oZgYCBFrq6l5iWSMe79gHcfVB/6cXzj5hEnH5P/Wz7
+fnl/EFNoX2zPC1g+BN51v4C4YvmxujLh+fPA3KgySk9k4orED77mU1z9C3uOfv4I4HUkofGZZ8Pv
+oJ51ZKi92NAnnd+Y1Ws04TMs4I+942+ltfaLpp9T/COPfU1wkAVDFKDEIY7Gl0eMDaB855RUaAva
+91UULvth1pIC9BltEK69H2Zjc6qRy+buzm09yA==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
 DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
 VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
 QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
@@ -227,4 +227,4 @@ hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
 WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
 gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
 qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
-qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_8dd674b6-54c3-4252-aaeb-b61357bedcee" Target="#_e35a962f-ffe9-4120-b7e1-6de9ed5d47dc"><Timestamp>2020-01-15 19:35:00</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_f3f564b0-a6b1-479b-a80a-087381653e32" Target="#_a6d8ca84-fa2b-49d9-bfdd-c0b2663698da"><Timestamp>2020-01-16 17:40:10</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ProcessType>
