@@ -9,11 +9,11 @@
   <name>J_J Codes Master</name>
   <url>http://www.talend.org/</url>
   <modules>
-    <module>code/routines</module>
-    <module>jobs/process/testjob1_0.1</module>
     <module>jobs/process/J_J/preprocessjenkinsjob_0.1</module>
     <module>jobs/process/J_J/preprocessjenkinsjob_0.2</module>
+    <module>jobs/process/testjob1_0.1</module>
     <module>jobs/process/testjob2_0.1</module>
+    <module>code/routines</module>
   </modules>
   <properties>
     <signer.version>7.2.1</signer.version>
