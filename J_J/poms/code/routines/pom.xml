@@ -3,12 +3,12 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <parent>
-    <groupId>org.example.j_j</groupId>
+    <groupId>org.talend.j_j</groupId>
     <artifactId>code.Master</artifactId>
     <version>7.2.1</version>
     <relativePath>../../</relativePath>
   </parent>
-  <groupId>org.example.j_j.code</groupId>
+  <groupId>org.talend.j_j.code</groupId>
   <artifactId>routines</artifactId>
   <version>7.2.1</version>
   <name>J_J Routines</name>
